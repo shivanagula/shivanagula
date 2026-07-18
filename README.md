@@ -1,6 +1,6 @@
 <div align="center">
 
-# SHIVA KUMAR NAGULA
+# SHIVA NAGULA
 
 ### Microsoft Cloud • Security • AI Solutions Architect
 
