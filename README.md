@@ -44,7 +44,7 @@ Specialized in:
 
 ---
 
-# Why Organizations Hire Me
+# Why Hire Me
 
 | Capability | Business Value |
 |------------|----------------|
